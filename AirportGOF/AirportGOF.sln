@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirportGOF", "AirportGOF.csproj", "{EB623C51-A46C-4A7D-B6E2-9E83218F4090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirportGOF2", "..\AirportGOF2\AirportGOF2.csproj", "{1EA8034F-60D3-4B09-A7BA-8001282DC077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB623C51-A46C-4A7D-B6E2-9E83218F4090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB623C51-A46C-4A7D-B6E2-9E83218F4090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB623C51-A46C-4A7D-B6E2-9E83218F4090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB623C51-A46C-4A7D-B6E2-9E83218F4090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA8034F-60D3-4B09-A7BA-8001282DC077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA8034F-60D3-4B09-A7BA-8001282DC077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA8034F-60D3-4B09-A7BA-8001282DC077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA8034F-60D3-4B09-A7BA-8001282DC077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {625D0E0B-C377-4CB9-B2D4-97AB93307D6D}
+	EndGlobalSection
+EndGlobal
