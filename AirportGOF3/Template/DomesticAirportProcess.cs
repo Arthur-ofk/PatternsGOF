@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AirportGOF3.Template
 {
-    public class DomesticAirportProcess : AirportProcess
+    public class DomesticAirportProcess : AirportTemplate
     {
         protected override void OpenAirport()
         {

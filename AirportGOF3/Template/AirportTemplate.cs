@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AirportGOF3.Template
 {
-    public class AirportTemplate
+    public abstract class AirportTemplate
     {
         public void ExecuteProcess()
         {

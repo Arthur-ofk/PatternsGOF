@@ -8,9 +8,10 @@ namespace AirportGOF3.State
 {
     public class GroundedState : IState
     {
-        public void HandleState()
+        public void HandleState(Aircraft context)
         {
-            Console.WriteLine("Aircraft is flying.");
+            Console.WriteLine("Aircraft is grounded.");
+            context.SetState(new FlyingState());
         }
     }
 }

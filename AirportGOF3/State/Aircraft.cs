@@ -20,9 +20,9 @@ namespace AirportGOF3.State
             state = newState;
         }
 
-        public void PerformAction()
+        public void Request()
         {
-            state.HandleState();
+            state.HandleState(this);
         }
     }
 }

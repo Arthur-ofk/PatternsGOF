@@ -24,5 +24,9 @@ namespace AirportGOF3.Memento
         {
             state = memento.State;
         }
+        public string GetState()
+        {
+            return state;
+        }
     }
 }

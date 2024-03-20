@@ -8,6 +8,7 @@ namespace AirportGOF3.State
 {
     public interface IState
     {
-        void HandleState();
+        void HandleState(Aircraft context);
+        
     }
 }
