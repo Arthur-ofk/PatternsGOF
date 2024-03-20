@@ -10,7 +10,7 @@ namespace AirportGOF2.Factory
     {
         public Aircraft CreateAircraft()
         {
-            return new Airplane();
+            return new Helicopter();
         }
 
        

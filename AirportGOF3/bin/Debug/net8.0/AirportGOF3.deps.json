@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AirportGOF3/1.0.0": {
+        "runtime": {
+          "AirportGOF3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AirportGOF3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

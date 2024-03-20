@@ -1,0 +1,14 @@
+E:\projects\AirportGOF3\bin\Debug\net8.0\AirportGOF3.exe
+E:\projects\AirportGOF3\bin\Debug\net8.0\AirportGOF3.deps.json
+E:\projects\AirportGOF3\bin\Debug\net8.0\AirportGOF3.runtimeconfig.json
+E:\projects\AirportGOF3\bin\Debug\net8.0\AirportGOF3.dll
+E:\projects\AirportGOF3\bin\Debug\net8.0\AirportGOF3.pdb
+E:\projects\AirportGOF3\obj\Debug\net8.0\AirportGOF3.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\AirportGOF3\obj\Debug\net8.0\AirportGOF3.AssemblyInfoInputs.cache
+E:\projects\AirportGOF3\obj\Debug\net8.0\AirportGOF3.AssemblyInfo.cs
+E:\projects\AirportGOF3\obj\Debug\net8.0\AirportGOF3.csproj.CoreCompileInputs.cache
+E:\projects\AirportGOF3\obj\Debug\net8.0\AirportGOF3.dll
+E:\projects\AirportGOF3\obj\Debug\net8.0\refint\AirportGOF3.dll
+E:\projects\AirportGOF3\obj\Debug\net8.0\AirportGOF3.pdb
+E:\projects\AirportGOF3\obj\Debug\net8.0\AirportGOF3.genruntimeconfig.cache
+E:\projects\AirportGOF3\obj\Debug\net8.0\ref\AirportGOF3.dll
